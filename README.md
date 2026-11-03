@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="./brandons-logo.png" alt="Brandon Stevenson — IT Professional" width="170">
+  
 
   # Brandon Stevenson
+  <img src="./brandons-logo.png" alt="Brandon Stevenson — IT Professional" width="170">
 
-  **IT Infrastructure Technician**
+  **IT Infrastructure | Administration | Support | Programming & Automation**
 
   Enterprise Infrastructure · Cisco Networking · Systems Administration · Automation
 
