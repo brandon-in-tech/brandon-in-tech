@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm an **IT Infrastructure Technician based in Las Vegas, Nevada**, with hands-on experience servicing enterprise servers, network infrastructure, firewalls, and Microsoft-managed environments.
+I'm an **IT Professional based in Las Vegas, Nevada**, with hands-on experience servicing enterprise servers, network infrastructure, firewalls, enterprise printers, and Microsoft-managed environments.
 
 I work on an enterprise infrastructure team at **Executive Personal Computers**, supporting Dell PowerEdge and HPE ProLiant servers, Cisco switches and routers, and security appliances. My work includes hardware diagnostics, firmware and operating-system recovery, storage management, network configuration, and secure data sanitization.
 
