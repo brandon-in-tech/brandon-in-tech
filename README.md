@@ -32,31 +32,6 @@ My focus is the full technology stack—from physical hardware and operating sys
 | **Systems & Endpoint Management** | Microsoft Intune · Active Directory · Entra ID · Microsoft 365 · Windows Autopilot · ServiceNow · OS Deployment |
 | **Automation & Development** | PowerShell · Microsoft Graph API · JavaScript/TypeScript · React · Next.js · Node.js · REST APIs · Git/GitHub |
 
-## Selected Infrastructure Projects
-
-The repositories below document physical enterprise infrastructure work, operating-system recovery, device maintenance, technical troubleshooting, and automation.
-
-### Cisco Network Infrastructure
-
-- **Cisco ASA 5585-X — Firewall Recovery & Module Servicing**  
-  ASA SSP firewall software recovery, ROMMON operations, flash reinitialization, TFTP image restoration, and boot verification. Distinguished the **ASA SSP** firewall module from the separate **SFR SSP** FirePOWER services module.
-
-- **[Cisco ISR 1100 — Secure Data Sanitization & IOS XE Firmware Restoration](https://github.com/brandon-in-tech/Cisco-ISR-1100-Secure-Data-Sanitization-IOS-XE-Firmware-Restoration-Infrastructure-Project)**  
-  Cisco C1111-8PWB maintenance covering ROMMON, configuration and cryptographic-key handling, storage operations, IOS XE image restoration, and documented CLI evidence.
-
-- **[Cisco Catalyst 2960-X — Infrastructure Recovery & Validation](https://github.com/brandon-in-tech/Cisco-Catalyst-2960X-Hands-On-Infrastructure-Project)**  
-  Cisco IOS restoration, bootloader access, flash management, boot configuration, secure sanitization procedures, and post-restoration checks.
-
-- **[Cisco Nexus 5596UP — NX-OS Recovery & Infrastructure Diagnostics](https://github.com/brandon-in-tech/Cisco-Nexus-5596UP-Infrastructure-Project)**  
-  TFTP-based kickstart and system image deployment, bootflash management, NX-OS configuration, hardware diagnostics, and interface verification.
-
-### Automation & Technical Documentation
-
-- **[Microsoft 365 Help Desk Automation](https://github.com/brandon-in-tech/Microsoft-365-HelpDesk-Automation)**  
-  PowerShell and Microsoft Graph workflows for onboarding, offboarding, account recovery, user diagnostics, and administrative reporting.
-
-- **[Cisco Nexus 9300-FX3 — Sanitization & Recovery SOP](https://github.com/brandon-in-tech/Cisco-Nexus-Sanitization-Recovery-SOP)**  
-  Structured technical documentation for secure sanitization, NX-OS recovery, verification, and deployment preparation.
 
 ## Education & Certifications
 
