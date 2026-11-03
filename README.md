@@ -4,9 +4,9 @@
   # Brandon Stevenson
   <img src="./brandons-logo.png" alt="Brandon Stevenson — IT Professional" width="170">
 
-  **IT Infrastructure | Administration | Support | Programming & Automation**
+  
 
-  Enterprise Infrastructure · Cisco Networking · Systems Administration · Automation
+  Enterprise Infrastructure · Cisco & Networking · IT & Systems Administration · Programming & Automation
 
   [Portfolio & Resume](https://www.brandons-resume.com/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/brandon-in-tech/) &nbsp;•&nbsp; [GitHub](https://github.com/brandon-in-tech)
 </div>
