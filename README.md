@@ -14,7 +14,7 @@ Enterprise Infrastructure · Cisco & Networking · IT & Systems Administration �
 
 ## About Me
 
-I'm an **IT Professional based in Las Vegas, Nevada**, with hands-on experience servicing enterprise servers, network infrastructure, firewalls, enterprise printers, and Microsoft-managed environments. My technical background spans enterprise hardware engineering, systems administration, network troubleshooting, infrastructure restoration, endpoint management, automation, and software development.
+I'm an **IT Professional based in Las Vegas, Nevada**, with hands-on experience servicing enterprise servers, network infrastructure, firewalls, enterprise printers, and Microsoft-managed environments. My technical background spans enterprise hardware engineering, systems administration, network troubleshooting, infrastructure restoration, endpoint management, automation, and software programming.
 
 I work on a four-person enterprise infrastructure team at **Executive Personal Computers**, supporting **Dell PowerEdge and HPE ProLiant servers, Cisco Catalyst and Nexus switches, ISR routers, and enterprise security appliances**. My work includes advanced hardware diagnostics, firmware and operating-system recovery, RAID and storage management, BIOS/UEFI configuration, iDRAC/iLO interfcae configurations, network device configurations , and secure data sanitization using NIST 800-88 standards. I regularly work with enterprise Ddell and HP servers, and **Cisco IOS, IOS XE, NX-OS, ROMMON, and bootloader environments**, performing firmware restoration through USB/TFTP, troubleshooting boot failures, configuring interfaces and VLANs, and conducting structured post-service infrastructure validation.
 
@@ -36,19 +36,7 @@ My focus is the full technology stack—from physical hardware and operating sys
 | **Automation & Development** | PowerShell · Microsoft Graph API · JavaScript/TypeScript · React · Next.js · Node.js · Express · REST APIs · Git/GitHub · Infrastructure Automation · Application Deployment · API Integration |
 | **Technical Documentation & Reporting** | Standard Operating Procedures (SOPs) · Technical Writing · Infrastructure Implementation Guides · Troubleshooting Runbooks · Network Topology Diagrams · Technical PDF Reports · Microsoft Word · PowerPoint · Validation Reports · Knowledge Base Documentation · Process Standardization |
 
-## Education & Certifications
 
-**Microsoft Certified: Azure Fundamentals (AZ-900)**  
-Completed
-
-**Cisco CCNA · Microsoft 365 Endpoint Administrator (MD-102)**  
-In Progress
-
-**Bachelor of Science — Cloud & Network Engineering**  
-Western Governors University · In Progress
-
-**Associate of Applied Science — Computer Information Technology**  
-College of Southern Nevada · Software Programming
 
 ---
 
